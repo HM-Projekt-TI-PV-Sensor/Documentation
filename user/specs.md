@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Spezifikationen
-nav_order: 4
+nav_order: 3
+parent: Benutzung
 ---
 
 # Spezifikationen
