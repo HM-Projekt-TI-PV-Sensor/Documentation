@@ -7,6 +7,9 @@ permalink: /
 
 ## Home
 
-You can add new pages or edit existing ones by simply committing to the gh-pages branch of our AlphaDocs repository.
+## Mobiler Einstrahlungssensor
 
-[AlphaDocs](https://github.com/AlphaMCNetwork/AlphaDocs/tree/gh-pages){: .btn .btn-blue }   [Just the Docs](https://just-the-docs.github.io/just-the-docs/){: .btn .btn-green }
+Abschätzung des Ertrags einer PV-Anlage anhand von Messdaten bezüglich Einstrahlungsintensität und Umgebungstemperatur.
+Die Daten werden ein mal pro Minute gemessen und ein mal pro Stunde transferiert.
+
+[Zu Github](https://github.com/HM-Projekt-TI-PV-Sensor){: .btn .btn-blue }
